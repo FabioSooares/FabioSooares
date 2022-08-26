@@ -1,4 +1,4 @@
-# Hi there! I'm Fábio Soares
+## Hi there! I'm Fábio Soares
 
 ## 📝 courses and certificates 💻
 ```
